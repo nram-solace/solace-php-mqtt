@@ -1,0 +1,18 @@
+Sample PHP files to access Solace with Mosquitto MQTT Libraries
+
+Required
+- HTTP server (eg: Apache httpd) with PHP enabled
+- Mosquitto
+- Mosquitto PHP libraries
+- PHP 7.4.8 (tested on this version) with Mosquitto modules enabled
+
+Useful links
+- https://docs.solace.com/
+- https://docs.solace.com/Open-APIs-Protocols/MQTT/MQTT-get-started.htm
+- https://github.com/mgdm/Mosquitto-PHP
+- https://mosquitto-php.readthedocs.io/en/latest/client.html
+- https://getgrav.org/blog/macos-catalina-apache-multiple-php-versions
+
+--
+Ramesh Natarajan
+Solace PSG, Jul 24, 2020
