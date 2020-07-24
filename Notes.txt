@@ -1,0 +1,5 @@
+useful links
+https://mosquitto-php.readthedocs.io/en/latest/client.html
+
+https://github.com/mgdm/Mosquitto-PHP
+
