@@ -6,7 +6,7 @@ define('SOLACE_URL', 'localhost');
 define('PORT', 1883);
 define('USERNAME', 'pubuser');
 define('PASSWORD', 'mqtt123');
-define('TOPIC', 'test/php/mqtt/101');
+define('TOPIC', 'test/php/mqtt/102');
 define('CLIENT_ID', "MqttDirectTopicPublisher-" . getmypid());
 define('NUMBER_OF_MESSAGES', 100);
 define('MQTT_QOS',1);
