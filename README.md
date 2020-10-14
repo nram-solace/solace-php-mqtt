@@ -1,4 +1,4 @@
-# Solace PHP MQTT
+# Solace PHP MQTT Samples
 
 ## About
 
@@ -19,13 +19,12 @@ PHP samples to access Solace with Mosquitto MQTT API
 
 ### Useful links
 
-- (https://docs.solace.com/)
-- (https://docs.solace.com/Open-APIs-Protocols/MQTT/MQTT-get-started.htm)
-- (http://mosquitto.org/)
-- (https://github.com/mgdm/Mosquitto-PHP)
-- (https://mosquitto-php.readthedocs.io/en/latest/client.html)
+- [https://docs.solace.com/]
+- [https://docs.solace.com/Open-APIs-Protocols/MQTT/MQTT-get-started.htm]
+- [http://mosquitto.org/]
+- [https://github.com/mgdm/Mosquitto-PHP]
+- [https://mosquitto-php.readthedocs.io/en/latest/client.html]
 
 ## AUTHOR
 
-Ramesh Natarajan
-Solace PSG, Jul 24, 2020
+Ramesh Natarajan, Solace PSG
