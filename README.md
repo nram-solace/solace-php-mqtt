@@ -4,6 +4,10 @@
 
 PHP samples to access Solace with Mosquitto MQTT API
 
+## DISCLAIMER
+
+This is **not** a Solace product and not covered by Solace support.
+
 ## USAGE
 
 Pl take a look at the sample PHP files for accessing Solace with Mosquitto-PHP.
