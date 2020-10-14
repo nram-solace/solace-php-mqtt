@@ -4,18 +4,23 @@
 
 PHP samples to access Solace with Mosquitto MQTT API
 
+## USAGE
+
+Pl take a look at the sample PHP files for accessing Solace with Mosquitto-PHP.
+
+
 ## INSTALLATION
+
+This has been tested to work with PHP 7.4.8 on MacOS Catalina with SolOS 9.6.
 
 1. Install [Mosquitto](http://mosquitto.org/) libraries for your platform. Follow Installation notes from the package.
 2. Install [Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP). Follow install notes from the package.
-3. Look at the sample PHP files for accessing Solace with Mosquitto-PHP.
 
 ### Required
 
 - HTTP server (eg: Apache httpd) with PHP enabled
 - Mosquitto MQTT Libraries
 - Mosquitto PHP module
-- PHP 7.4.8 (tested on this version) with Mosquitto modules enabled
 
 ### Useful links
 
