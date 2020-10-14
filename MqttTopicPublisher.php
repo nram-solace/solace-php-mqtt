@@ -4,8 +4,8 @@ use Mosquitto\Client;
 
 define('SOLACE_URL', 'localhost');
 define('PORT', 1883);
-define('USERNAME', 'pubuser');
-define('PASSWORD', 'mqtt123');
+define('USERNAME', 'default');
+define('PASSWORD', 'default');
 define('TOPIC', 'test/php/mqtt/102');
 define('CLIENT_ID', "MqttDirectTopicPublisher-" . getmypid());
 define('NUMBER_OF_MESSAGES', 100);

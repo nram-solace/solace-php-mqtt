@@ -3,8 +3,8 @@
 use Mosquitto\Client;
 
 define('SOLACE_URL', 'localhost');
-define('USERNAME', 'subuser');
-define('PASSWORD', 'mqtt123');
+define('USERNAME', 'default');
+define('PASSWORD', 'default');
 define('PORT', 1883);
 define('TOPIC', 'test/php/#');
 define('CLIENT_ID', "MqttNonDurableConsumer-" . getmypid());
