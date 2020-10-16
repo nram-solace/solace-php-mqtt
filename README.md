@@ -99,4 +99,4 @@ This has been tested to work with PHP 7.4.8 on MacOS Catalina with SolOS 9.6.
 
 ## AUTHOR
 
-Ramesh Natarajan, Solace PSG
+Ramesh Natarajan
