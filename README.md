@@ -2,7 +2,13 @@
 
 ## About
 
-PHP samples to access Solace with Mosquitto MQTT API
+PHP samples to access [Solace](www.solace.com) with Mosquitto MQTT API.
+
+**Solace**: [Solace PubSub+](https://docs.solace.com/) APIs provide a variety of on-ramps and off-ramps to the event mesh, with support for open standard protocols and APIs (MQTT, AMQP, JMS, REST) as well as proprietary messaging APIs. This enables connecting legacy and modern applications, edge streaming technologies (StreamSets, Striim, Adaptris, ASAPIO, Dell Boomi) to integrate 3rd party applications, and connectors for technologies like Kafka. As of Oct 2020, PHP API is not natively supported in Solace.
+
+**MQTT**: [MQTT](https://mqtt.org/) is the OASIS standard messaging lightweight messsging protocol suporrted in Solace.
+
+**Mosquitto-PHP**: [Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP) is an extension for using the  Mosquitto™ MQTT client library with PHP.
 
 ## DISCLAIMER
 
