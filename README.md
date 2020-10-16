@@ -4,7 +4,9 @@
 
 PHP samples to access [Solace](www.solace.com) with Mosquitto MQTT API.
 
-**Solace**: [Solace PubSub+](https://docs.solace.com/) APIs provide a variety of on-ramps and off-ramps to the event mesh, with support for open standard protocols and APIs (MQTT, AMQP, JMS, REST) as well as proprietary messaging APIs. This enables connecting legacy and modern applications, edge streaming technologies (StreamSets, Striim, Adaptris, ASAPIO, Dell Boomi) to integrate 3rd party applications, and connectors for technologies like Kafka. As of Oct 2020, PHP API is not natively supported in Solace.
+**Solace**: [Solace PubSub+ Platform](https://docs.solace.com/Solace-PubSub-Platform.htm) is a complete event streaming and management platform for real-time enterprises. PubSub+ helps enterprises design, deploy and manage event-driven architectures across hybrid cloud, multi-cloud and IoT environments.
+
+PubSub+ event brokers power the **Event Mesh**, a modern messaging layer that can be deployed across every environment (Cloud, Software, Appliance) and component of the distributed enterprise to stream events across. PubSub+ APIs provide support for open protocols and APIs (MQTT, AMQP, JMS, REST) as well as proprietary messaging APIs. Solace APIs are available for several laugnages including Java, C, C++, JavaScript, .NET. More laguanges are being added and as of Oct 2020, PHP API is not supported in Solace.
 
 **MQTT**: [MQTT](https://mqtt.org/) is an OASIS standard lightweight messsging protocol. MQTT is supported in Solace event brokers.
 
